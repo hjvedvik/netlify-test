@@ -1,1 +1,1 @@
-# Default starter for Gridsome
+# Gridsome starter for Netlify CMS
